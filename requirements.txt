@@ -5,4 +5,3 @@ textblob
 nltk
 python-dotenv
 pip
-python
