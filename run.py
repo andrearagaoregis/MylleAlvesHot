@@ -2,7 +2,6 @@
 """
 Script para executar o chatbot Mylle Alves
 """
-import os os.environ
 import subprocess
 import sys
 import os
