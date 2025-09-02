@@ -4,4 +4,4 @@ pytz
 textblob
 nltk
 python-dotenv
-python 3
+pip
