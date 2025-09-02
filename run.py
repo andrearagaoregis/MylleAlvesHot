@@ -2,7 +2,7 @@
 """
 Script para executar o chatbot Mylle Alves
 """
-import os os.environ["STREAMLIT_WATCHDOG_FORCE_POLLING"] = "true"
+import os os.environ = "true"
 import subprocess
 import sys
 import os
